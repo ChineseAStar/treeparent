@@ -1,2 +1,6 @@
 hi child
 hello child
+<<<<<<< HEAD
+=======
+hello child
+>>>>>>> f87781443889afa1ff28fc5f5070a3675b07e9f1
